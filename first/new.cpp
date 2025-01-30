@@ -17,6 +17,6 @@ int main() {
         cout << fibonacci(i) << " ";
     }
     cout << endl;
+    if(n>=2025)
     return 0;
 }
-gghhh
